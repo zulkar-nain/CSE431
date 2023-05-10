@@ -1,23 +1,9 @@
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
-Two public links to the Concept Map (anyone on the internet can view without login):
-PDF: 
-https://github.com/zulkar-nain/CSE431/blob/main/ResearchPaper/Task2/431%20task%203%20concept%20map.pdf
 
 
-Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Dan Jurafsky and James H. Martin
-3rd edition
-2021
-Pearson
 
-Link to the book:
-https://web.stanford.edu/~jurafsky/slp3/
-
-Link to the book chapter:
-https://web.stanford.edu/~jurafsky/slp3/15.pdf
 
 Group Number:
 31
