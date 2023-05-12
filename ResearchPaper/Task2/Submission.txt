@@ -1,7 +1,8 @@
 Link to unlisted YouTube video:
 https://youtu.be/bac4ErbAWhI
 
-
+Slides used:
+https://github.com/zulkar-nain/CSE431/blob/main/ResearchPaper/Task2/Task2Slides%20for%20NLP_20101226.pdf
 
 
 
