@@ -8,17 +8,17 @@ Slides used in the presentation:
 https://github.com/zulkar-nain/CSE431/blob/main/ResearchPaper/Task6/NLP%20Final%20presentation%20slides_task6.pdf
 
 
-Conference submitted paper / paper submission / login Link:
-Waiting for a review before submitting
+Journal submitted paper / paper submission / login Link:
+https://mc.manuscriptcentral.com/iot
 
 Paper submission date (to workshop/conference):
+14-May-2023
 
+Paper submission ID: IoT-29841-2023
 
-Paper submission ID: 
+Journal Name: IEEE Internet of Things Journal
 
-Conference Name: 
-
-Conference URL: 
+Journal URL: https://mc.manuscriptcentral.com/iot
 
 Project title:
 Enhancing Medical Services through Natural Language Processing: An Analysis of Chatbots’ Effectiveness and Optimization Strategies
