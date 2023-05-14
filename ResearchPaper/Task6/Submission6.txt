@@ -4,6 +4,21 @@ https://www.overleaf.com/read/bpjqqtvxkkvx
 Link to unlisted YouTube video:
 https://youtu.be/bkmRMMjFGiU
 
+Slides used in the presentation:
+https://github.com/zulkar-nain/CSE431/blob/main/ResearchPaper/Task6/NLP%20Final%20presentation%20slides_task6.pdf
+
+
+Conference submitted paper / paper submission / login Link:
+Waiting for a review before submitting
+
+Paper submission date (to workshop/conference):
+
+
+Paper submission ID: 
+
+Conference Name: 
+
+Conference URL: 
 
 Project title:
 Enhancing Medical Services through Natural Language Processing: An Analysis of Chatbots’ Effectiveness and Optimization Strategies
